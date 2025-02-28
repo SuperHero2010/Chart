@@ -1,0 +1,7 @@
+You can change note animation speed with write on Value1 and don't write on Value2
+Example:
+- 5: 0.5 (50%)
+- 10: 1.0 (normal)
+- 15: 2.0 (Double)
+- 20: 3.0 (Triple)
+You just need to increase by 1 or 0.5 or whatever value you want and the speed will change.

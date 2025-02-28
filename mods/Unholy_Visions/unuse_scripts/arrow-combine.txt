@@ -1,0 +1,2 @@
+Value1: On/Off
+Value2: Don't change
