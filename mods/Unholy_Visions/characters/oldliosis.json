@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-350
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				72,
+				-382
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-28,
+				-411
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				30,
+				-310
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-130,
+				-360
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"losing_colors": [
+		40,
+		20,
+		45
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/LEGACYScopoliosis",
+	"shake_duration": 0,
+	"position": [
+		-1422,
+		0
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "scopoliosis",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-990,
+		-870
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		40,
+		20,
+		45
+	],
+	"scale": 5.5
+}
