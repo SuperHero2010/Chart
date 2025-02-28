@@ -1,0 +1,7 @@
+centerShakeyArrows + float = centerShakeyArrowsFloat
+
+Set value1 to normal for no arrow shake
+Set value1 to little for little shake
+Set value1 to medium for medium shake
+Set value1 to large for a lot of shake
+DON'T CHANGE VALUE2

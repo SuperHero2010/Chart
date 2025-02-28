@@ -1,0 +1,4 @@
+Active reverse bar, icon, arrow. You mustn't activate
+
+Value 1: True/False
+Value 2: Don't change
