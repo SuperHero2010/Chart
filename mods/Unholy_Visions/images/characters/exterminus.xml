@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="exterminus.png">
+<SubTexture name="exterminus down0000" x="0" y="4208" width="1277" height="1300" frameX="-635" frameY="-637" frameWidth="2040" frameHeight="2096" />
+<SubTexture name="exterminus down0001" x="3161" y="2860" width="1226" height="1323" frameX="-652" frameY="-585" frameWidth="2040" frameHeight="2096" />
+<SubTexture name="exterminus down0002" x="0" y="1465" width="1139" height="1395" frameX="-679" frameY="-458" frameWidth="2040" frameHeight="2096" />
+<SubTexture name="exterminus down0003" x="1536" y="0" width="1163" height="1446" frameX="-658" frameY="-367" frameWidth="2040" frameHeight="2096" />
+<SubTexture name="exterminus idle0000" x="6630" y="3705" width="1113" height="1214" frameX="-638" frameY="-324" frameWidth="1945" frameHeight="1691" />
+<SubTexture name="exterminus idle0001" x="5522" y="0" width="1108" height="1257" frameX="-588" frameY="-242" frameWidth="1945" frameHeight="1691" />
+<SubTexture name="exterminus idle0002" x="4387" y="2860" width="1079" height="1300" frameX="-530" frameY="-175" frameWidth="1945" frameHeight="1691" />
+<SubTexture name="exterminus idle0003" x="1277" y="4208" width="1098" height="1278" frameX="-466" frameY="-161" frameWidth="1945" frameHeight="1691" />
+<SubTexture name="exterminus idle0004" x="2375" y="4208" width="1100" height="1276" frameX="-456" frameY="-156" frameWidth="1945" frameHeight="1691" />
+<SubTexture name="exterminus left0000" x="0" y="2860" width="1607" height="1348" frameX="-103" frameY="-229" frameWidth="2195" frameHeight="1741" />
+<SubTexture name="exterminus left0001" x="1607" y="2860" width="1554" height="1347" frameX="-123" frameY="-253" frameWidth="2195" frameHeight="1741" />
+<SubTexture name="exterminus left0002" x="2549" y="1465" width="1349" height="1367" frameX="-237" frameY="-240" frameWidth="2195" frameHeight="1741" />
+<SubTexture name="exterminus left0003" x="2699" y="0" width="1292" height="1421" frameX="-348" frameY="-197" frameWidth="2195" frameHeight="1741" />
+<SubTexture name="exterminus right0000" x="6630" y="0" width="1823" height="1249" frameX="-731" frameY="-350" frameWidth="2630" frameHeight="1824" />
+<SubTexture name="exterminus right0001" x="3475" y="4208" width="1730" height="1268" frameX="-760" frameY="-342" frameWidth="2630" frameHeight="1824" />
+<SubTexture name="exterminus right0002" x="3991" y="1367" width="1510" height="1328" frameX="-829" frameY="-329" frameWidth="2630" frameHeight="1824" />
+<SubTexture name="exterminus right0003" x="1139" y="1465" width="1410" height="1384" frameX="-875" frameY="-281" frameWidth="2630" frameHeight="1824" />
+<SubTexture name="exterminus up0000" x="0" y="0" width="1536" height="1465" frameX="-316" frameY="-54" frameWidth="1994" frameHeight="1692" />
+<SubTexture name="exterminus up0001" x="3991" y="0" width="1531" height="1367" frameX="-341" frameY="-115" frameWidth="1994" frameHeight="1692" />
+<SubTexture name="exterminus up0002" x="6630" y="2486" width="1529" height="1219" frameX="-360" frameY="-218" frameWidth="1994" frameHeight="1692" />
+<SubTexture name="exterminus up0003" x="6630" y="1249" width="1521" height="1237" frameX="-365" frameY="-158" frameWidth="1994" frameHeight="1692" />
+</TextureAtlas>

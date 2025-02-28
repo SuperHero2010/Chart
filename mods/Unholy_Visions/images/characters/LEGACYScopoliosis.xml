@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LEGACYScopoliosis.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Down0000" x="1035" y="0" width="346" height="103" frameX="-145" frameY="-312" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Down0001" x="547" y="783" width="344" height="112" frameX="-145" frameY="-294" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Down0002" x="692" y="614" width="341" height="118" frameX="-146" frameY="-278" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Idle0000" x="0" y="614" width="348" height="169" frameX="-148" frameY="-228" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Idle0001" x="682" y="358" width="347" height="170" frameX="-148" frameY="-222" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Idle0002" x="348" y="614" width="344" height="169" frameX="-148" frameY="-216" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Idle0003" x="341" y="221" width="340" height="167" frameX="-149" frameY="-210" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Left0000" x="0" y="435" width="355" height="179" frameX="-125" frameY="-207" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Left0001" x="682" y="0" width="353" height="179" frameX="-127" frameY="-207" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Left0002" x="682" y="179" width="349" height="179" frameX="-131" frameY="-207" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Right0000" x="0" y="783" width="281" height="180" frameX="-204" frameY="-210" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Right0001" x="355" y="435" width="273" height="179" frameX="-204" frameY="-208" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Right0002" x="281" y="783" width="266" height="179" frameX="-205" frameY="-208" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Up0000" x="0" y="0" width="341" height="221" frameX="-148" frameY="-167" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Up0001" x="341" y="0" width="341" height="218" frameX="-148" frameY="-171" frameWidth="636" frameHeight="584"/>
+	<SubTexture name="Up0002" x="0" y="221" width="341" height="214" frameX="-148" frameY="-176" frameWidth="636" frameHeight="584"/>
+</TextureAtlas>
