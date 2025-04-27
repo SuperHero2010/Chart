@@ -1,1 +1,1 @@
-This foldẻ is used to place unuse images
+This folder is used to place unuse images
