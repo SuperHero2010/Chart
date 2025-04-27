@@ -1,0 +1,1 @@
+Before you play the chart, hey, you should move the "unused_scripts" folder out of the JS Engine application folder if you don't want the game to be choppy and laggy or don't want the scripts to conflict with each other

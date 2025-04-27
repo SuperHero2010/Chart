@@ -1,0 +1,3 @@
+Value1 : The appearance VGRed
+Value2 : The disappearance of VGRed
+Calculation by seconds

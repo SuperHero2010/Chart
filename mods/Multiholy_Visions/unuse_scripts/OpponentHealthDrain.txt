@@ -1,0 +1,6 @@
+This event script can allow/not allow opponent - many health
+If you set Value2 is "0,0", it will set default without change Value1
+But you should turn off with change Value1
+
+Value1: On/Off
+Value2: [quality,limit]
