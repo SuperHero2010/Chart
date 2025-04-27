@@ -1,0 +1,3 @@
+Show your wanted current opponent.
+
+Value 1: What to show.

@@ -1,0 +1,2 @@
+Value1: Character Y
+Value2: Time

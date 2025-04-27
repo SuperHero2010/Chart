@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				150
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "exterminus idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "exterminus left"
+		},
+		{
+			"offsets": [
+				0,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "exterminus down"
+		},
+		{
+			"offsets": [
+				0,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "exterminus right"
+		},
+		{
+			"offsets": [
+				0,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "exterminus up"
+		}
+	],
+	"losing_colors": [
+		80,
+		0,
+		0
+	],
+	"isPlayer": false,
+	"no_antialiasing": false,
+	"image": "characters/exterminus",
+	"shake_duration": 0,
+	"position": [
+		-2780,
+		-620
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "exter",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-870,
+		-1840
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		80,
+		0,
+		0
+	],
+	"scale": 2.1
+}
