@@ -1,4 +1,3 @@
-used in bad thoughts for da sick parts lol
-
-Value 1: beginning position
-to unactivate it just leave the value blank
+The faster version. It's more different than other NewBopping HUD
+Value1: on
+Value2: off
