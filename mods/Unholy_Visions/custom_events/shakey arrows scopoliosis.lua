@@ -1,5 +1,5 @@
 local defaultNotePos = {};
-local spin = true;
+local spin = false;
 local arrowMoveX = 0;
 local arrowMoveY = 0;
 
@@ -32,20 +32,27 @@ function onEvent(name,value1,value2)
 	if name == 'shakey arrows scopoliosis' then 
 		
 		if value1 == 'normal' then
-			arrowMoveX = 0;
-            arrowMoveY = 0;
+                spin = false;
 		end
 		if value1 == 'little' then
-            arrowMoveX = 6;
-            arrowMoveY = 6;
+            spin = true;
+            arrowMoveX = 8;
+            arrowMoveY = 8;
         end
             if value1 == 'medium' then
-                arrowMoveX = 30;
-                arrowMoveY = 30;
+                spin = true;
+                arrowMoveX = 12;
+                arrowMoveY = 12;
             end
                 if value1 == 'large' then
-                    arrowMoveX = 70;
-                    arrowMoveY = 50;
+                    spin = true;
+                    arrowMoveX = 20;
+                    arrowMoveY = 15;
+                end
+                if value1 == 'big' then
+                    spin = true;
+                    arrowMoveX = 40;
+                    arrowMoveY = 20;
 		end
 	end
 end
