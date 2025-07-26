@@ -1,5 +1,5 @@
 local defaultNotePos = {};
-local spin = true;
+local spin = false;
 local arrowMoveX = 0;
 local arrowMoveY = 0;
 
@@ -32,18 +32,20 @@ function onEvent(name,value1,value2)
 	if name == 'shakey arrows' then 
 		
 		if value1 == 'normal' then
-			arrowMoveX = 0;
-            arrowMoveY = 0;
+                spin = false;
 		end
 		if value1 == 'little' then
+            spin = true;
             arrowMoveX = 4;
             arrowMoveY = 4;
         end
             if value1 == 'medium' then
+                spin = true;
                 arrowMoveX = 15;
                 arrowMoveY = 15;
             end
                 if value1 == 'large' then
+                    spin = true;
                     arrowMoveX = 35;
                     arrowMoveY = 25;
 		end
