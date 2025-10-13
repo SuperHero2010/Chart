@@ -1,3 +1,0 @@
-Value1: On/Off
-Value2: Don't change
-This event is only working in "mods/data/<your_song_name>"
